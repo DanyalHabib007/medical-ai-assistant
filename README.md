@@ -63,6 +63,11 @@ pip install -r requirements.txt
 
 [Link to Doc](https://docs.google.com/document/d/1wjEMPK8lmcr4z9QsmOaryqgiuJMqiiLj/edit?usp=sharing&ouid=107570087942373100747&rtpof=true&sd=true)
 
+## Deployed Version
+
+[Link to Render](https://team-one-y9ni.onrender.com/)
+
+
 ## 🌟 Contributors
 
 [@Amber Bagchi](https://github.com/amber-bagchi)
